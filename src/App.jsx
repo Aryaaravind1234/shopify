@@ -5,7 +5,8 @@ import Footer from './Components/Footer'
 
 import Landing from './Pages/Landing'
 import Product from './Pages/Product'
-import Wishlist from './Pages/WishList'
+
+import Wishlist from './Pages/Wishlist'
 import Cart from './Pages/Cart'
 import PNF from './Pages/PNF'
 
